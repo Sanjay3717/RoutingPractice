@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.contact-image {
+  height: 300px;
+  width: 300px;
+}
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 70vh;
+}

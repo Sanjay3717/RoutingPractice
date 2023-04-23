@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+.logo-image {
+  height: 50px;
+  width: 50px;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 10%;
+  margin-left: 100px;
+}
+.nav-right-container {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 100px;
+}
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header-btn-style {
+  background-color: transparent;
+  border-width: 0px;
+  font-size: 20px;
+  margin-right: 20px;
+  font-weight: bold;
+  list-style-type: none;
+}
+.nav-link {
+  text-decoration: none;
+}
